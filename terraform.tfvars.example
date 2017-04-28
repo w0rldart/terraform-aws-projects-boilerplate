@@ -1,0 +1,2 @@
+CREDENTIALS_FILE="/home/alex/.aws/credentials"
+AWS_PROFILE="bot-test-ansible"
