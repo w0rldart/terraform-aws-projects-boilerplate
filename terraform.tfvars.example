@@ -1,2 +1,9 @@
+/*
+ * Path to configured AWS credentials file
+ */
 CREDENTIALS_FILE="/home/alex/.aws/credentials"
-AWS_PROFILE="bot-test-ansible"
+
+/*
+ * Generic path to SSH keys
+ */
+KEYS_DIR="/home/alex/keys"
